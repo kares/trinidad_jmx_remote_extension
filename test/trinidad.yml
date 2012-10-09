@@ -1,0 +1,9 @@
+---
+  environment: production
+  port: 4444
+  trap: false
+  extensions:
+    jmx_remote:
+      useLocalPorts: true
+      rmiRegistryPortPlatform: 9993
+      rmiServerPortPlatform: 9994
