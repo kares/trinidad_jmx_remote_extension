@@ -62,7 +62,7 @@ SSH tunnel (those ports) into the machine where Trinidad is running :
 
 Download the *catalina-jmx-remote.jar* into your current working directory :
 
-    $ wget http://archive.apache.org/dist/tomcat/tomcat-7/v7.0.30/bin/extras/catalina-jmx-remote.jar
+    $ wget http://archive.apache.org/dist/tomcat/tomcat-7/v7.0.32/bin/extras/catalina-jmx-remote.jar
 
 You shall use the same *catalina-jmx-remote.jar* locally as the extension is 
 using on the remote Trinidad machine, this guide reflects the .jar distributed 
